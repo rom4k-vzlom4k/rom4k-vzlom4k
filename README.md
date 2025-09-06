@@ -2,14 +2,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 08 June 2025 - To: 03 September 2025
+From: 08 June 2025 - To: 04 September 2025
 
-Total Time: 92 hrs 40 mins
+Total Time: 92 hrs 45 mins
 
-Go           65 hrs 25 mins  >>>>>>>>>>>>>>>>>>-------   70.43 %
-Python       13 hrs 4 mins   >>>>---------------------   14.08 %
-C            6 hrs           >>-----------------------   06.47 %
-SQL          3 hrs 35 mins   >------------------------   03.86 %
+Go           65 hrs 31 mins  >>>>>>>>>>>>>>>>>>-------   70.46 %
+Python       13 hrs 4 mins   >>>>---------------------   14.07 %
+C            6 hrs           >>-----------------------   06.46 %
+SQL          3 hrs 35 mins   >------------------------   03.85 %
 Bash         1 hr 13 mins    -------------------------   01.31 %
 Markdown     41 mins         -------------------------   00.75 %
 Docker       24 mins         -------------------------   00.43 %
