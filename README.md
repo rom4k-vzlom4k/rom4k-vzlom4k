@@ -2,19 +2,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 08 June 2025 - To: 05 January 2026
+From: 08 June 2025 - To: 06 January 2026
 
-Total Time: 187 hrs 7 mins
+Total Time: 192 hrs 34 mins
 
-Python       83 hrs 25 mins  >>>>>>>>>>>--------------   44.47 %
-Go           68 hrs 3 mins   >>>>>>>>>----------------   36.27 %
-C            6 hrs 1 min     >------------------------   03.21 %
-SQL          5 hrs 39 mins   >------------------------   03.01 %
-Text         4 hrs 57 mins   >------------------------   02.64 %
-TypeScript   4 hrs 41 mins   >------------------------   02.50 %
-Bash         3 hrs 58 mins   >------------------------   02.12 %
-Docker       2 hrs 4 mins    -------------------------   01.10 %
-Git Config   1 hr 17 mins    -------------------------   00.69 %
+Python       84 hrs 11 mins  >>>>>>>>>>>--------------   43.60 %
+Go           68 hrs 3 mins   >>>>>>>>>----------------   35.25 %
+TypeScript   8 hrs 54 mins   >------------------------   04.61 %
+SQL          6 hrs 4 mins    >------------------------   03.15 %
+C            6 hrs 1 min     >------------------------   03.12 %
+Text         4 hrs 57 mins   >------------------------   02.57 %
+Bash         4 hrs 2 mins    >------------------------   02.09 %
+Docker       2 hrs 4 mins    -------------------------   01.07 %
+Git Config   1 hr 17 mins    -------------------------   00.67 %
 ```
 
 <!--END_SECTION:waka-->
